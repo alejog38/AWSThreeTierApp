@@ -3,8 +3,8 @@
 This Terraform project was created to deploy an infrastructure of three-tier components. The infrastructure is secured by a Bastion host that is used for the SSH connection and connects with the other 2 tiers of the application, and we use an autoscaling group to maintain the scalability and redundancy of the components, on the other hand, we use a load balancer to guarantee the connection of the frontend through the internet.
 
 <h3>Architecture</h3>
-<img src='https://drive.google.com/file/d/1NvkgaV_l9xiFrRuH2JFl_lWoPYDMnJsR/view?usp=share_link'>
- 
+<img src="https://drive.google.com/file/d/1NvkgaV_l9xiFrRuH2JFl_lWoPYDMnJsR/view?usp=sharing">
+
 
 <h3>Prerequisites</h3>
 
