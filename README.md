@@ -8,11 +8,11 @@ This Terraform project was created to deploy an infrastructure of three-tier com
 
 ## Prerequisites 
 
-AWS Account
-Proper Permissions for your user
-Terraform installed on your IDE
-AWS CLI installed and configured on your IDE
-SSH Agent (For Windows PowerShell)
+-   AWS Account
+-   Proper Permissions for your user
+-   Terraform installed on your IDE
+-   AWS CLI installed and configured on your IDE
+-   SSH Agent (For Windows PowerShell)
 
 
 ## AWS configuration settings CLI
