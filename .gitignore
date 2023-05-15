@@ -1,0 +1,5 @@
+#ignore folder 
+.terraform/
+*.tfstate
+*.backup
+.terraform.lock.hcl
