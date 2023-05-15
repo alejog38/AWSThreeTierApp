@@ -6,7 +6,7 @@ This Terraform project was created to deploy an infrastructure of three-tier com
 <img src="https://github.com/alejog38/AWSThreeTierApp/blob/main/ThreeTierApp.png">
 
 
-## Prerequisites 
+## Prerequisites 
 
 AWS Account
 Proper Permissions for your user
