@@ -43,7 +43,7 @@ git clone https://github.com/alejog38/AWSThreeTierApp.git
 ```sh 
 terraform init
 ```
-5. Edit the var.tfvars file with your desired values.
+5. Edit the terraform.tfvars file with your desired values, on the other hand, if you want to personalize the deployment you can check the variables.tf file.
 6. Verification of the configuration
 ```sh
 terraform plan -var-file=var.tfvars
