@@ -46,15 +46,15 @@ terraform init
 5. Edit the terraform.tfvars file with your desired values, on the other hand, if you want to personalize the deployment you can check the variables.tf file.
 6. Verification of the configuration
 ```sh
-terraform plan -var-file=var.tfvars
+terraform plan -var-file=terraform.tfvars
 ```
 7. Deploy
 ```sh
-terraform apply -var-file=var.tfvars
+terraform apply -var-file=terraform.tfvars
 ```
 8. Destroy
 ```sh
-terraform destroy -var-file=var.tfvars
+terraform destroy -var-file=terraform.tfvars
 ```
 
 
